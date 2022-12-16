@@ -1,4 +1,4 @@
-# chatGPT for OCI-CLI
+# ChatGPT for OCI-CLI
 
 This repository contains a Python script that uses the chatGPT API to translate error messages from the Oracle Cloud Infrastructure (OCI) Command Line Interface (CLI).
 
