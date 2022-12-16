@@ -13,17 +13,18 @@ To use this script, you will need:
 
 To use the script, run the following command, passing it the parameters you'd pass the OCI command:
 
-'''
+`
 python oci-copilot.py "--my-command"
-'''
+`
 
 
 Replace `--my-command` with the OCI-CLI command that you want to run. The script will run the OCI-CLI command and capture the output. It will then pass the output to the chatGPT API as the prompt, and print the response from the API to the console.
 
-Example 
-'''
+Example:
+
+`
 python3 oci-c2.py "iam compartment list"
-'''
+`
 
 ## Customization
 
