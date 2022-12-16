@@ -38,5 +38,3 @@ We welcome contributions to this repository. If you have an idea for improving t
 
 This repository is licensed under the [MIT License](LICENSE).
 
-
-You can copy and paste this content into your README.md file to use it as the readme for your repository. Don't forget to replace YOUR_API_KEY_HERE with your actual API key, and to update the LICENSE file with the appropriate license for your repository.
